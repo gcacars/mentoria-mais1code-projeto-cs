@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rafa", "Rafa\Rafa.csproj", "{962790BD-38DC-4F80-8B53-1A8E6603F9D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rafa", "Rafa\Rafa.csproj", "{962790BD-38DC-4F80-8B53-1A8E6603F9D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{F7F6AEB6-9FF7-4304-B3EB-7746CF9D70DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{962790BD-38DC-4F80-8B53-1A8E6603F9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962790BD-38DC-4F80-8B53-1A8E6603F9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962790BD-38DC-4F80-8B53-1A8E6603F9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F6AEB6-9FF7-4304-B3EB-7746CF9D70DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F6AEB6-9FF7-4304-B3EB-7746CF9D70DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F6AEB6-9FF7-4304-B3EB-7746CF9D70DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F6AEB6-9FF7-4304-B3EB-7746CF9D70DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
